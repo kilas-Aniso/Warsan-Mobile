@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color">#1082EB</color>
+    <color name="card_bg">#EEEEEE</color>
+    <color name="tfBorder">#DA95F2</color>
+    <color name="accentColor">#68BBD6</color>
+    <color name="error_color_material_light">#B00020</color>
+</resources>
